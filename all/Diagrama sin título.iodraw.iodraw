@@ -22,7 +22,7 @@
           <mxGeometry x="500" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-5" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="210" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="210" y="570" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-6" value="Printer" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Printer_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="150" y="440" width="80" height="80" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="810" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="320" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="600" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o0_nmgzgVzDBi6BZ20ZP-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="80" height="80" as="geometry" />
