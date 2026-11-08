@@ -37,7 +37,7 @@
           <mxGeometry x="810" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="290" y="600" width="70" height="60" as="geometry" />
+          <mxGeometry x="290" y="610" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o0_nmgzgVzDBi6BZ20ZP-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="80" height="80" as="geometry" />
@@ -79,6 +79,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="630" as="sourcePoint" />
             <mxPoint x="394.5" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o0_nmgzgVzDBi6BZ20ZP-13" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="640" as="sourcePoint" />
+            <mxPoint x="404.5" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
