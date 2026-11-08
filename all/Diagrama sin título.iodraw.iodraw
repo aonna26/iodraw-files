@@ -64,7 +64,7 @@
           <mxGeometry x="610" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o0_nmgzgVzDBi6BZ20ZP-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="1">
-          <mxGeometry x="600" y="510" width="50" height="50" as="geometry" />
+          <mxGeometry x="640" y="410" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
